@@ -13,3 +13,7 @@ Um clone clássico do jogo Snake feito em **C** usando **SDL2** e **SDL_ttf**, c
 - SDL2_ttf
 - Compilador C (gcc, clang, etc.)
 
+### No Ubuntu/Debian:
+
+```bash
+sudo apt-get install libsdl2-dev libsdl2-ttf-dev
